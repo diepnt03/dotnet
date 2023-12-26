@@ -1,0 +1,40 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.runtimeconfig.dev.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4_MarkupCompile.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4_MarkupCompile.lref
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.g.resources
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.exe
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.deps.json
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.runtimeconfig.dev.json
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.dll
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\bin\Debug\netcoreapp3.1\Bai9_4.pdb
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.g.resources
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.dll
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.pdb
+C:\Users\ADMIN\Downloads\Nguyen Thi Minh BaiTH9\Bai9\Bai9_4\obj\Debug\netcoreapp3.1\Bai9_4.genruntimeconfig.cache

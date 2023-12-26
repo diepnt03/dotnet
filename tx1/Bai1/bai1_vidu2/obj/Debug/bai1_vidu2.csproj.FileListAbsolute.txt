@@ -1,0 +1,7 @@
+C:\DotNett\ConsoleApp1\bai1_vidu2\bin\Debug\bai1_vidu2.exe.config
+C:\DotNett\ConsoleApp1\bai1_vidu2\bin\Debug\bai1_vidu2.exe
+C:\DotNett\ConsoleApp1\bai1_vidu2\bin\Debug\bai1_vidu2.pdb
+C:\DotNett\ConsoleApp1\bai1_vidu2\obj\Debug\bai1_vidu2.csproj.AssemblyReference.cache
+C:\DotNett\ConsoleApp1\bai1_vidu2\obj\Debug\bai1_vidu2.csproj.CoreCompileInputs.cache
+C:\DotNett\ConsoleApp1\bai1_vidu2\obj\Debug\bai1_vidu2.exe
+C:\DotNett\ConsoleApp1\bai1_vidu2\obj\Debug\bai1_vidu2.pdb

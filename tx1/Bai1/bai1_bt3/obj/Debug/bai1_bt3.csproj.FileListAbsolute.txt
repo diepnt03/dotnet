@@ -1,0 +1,7 @@
+C:\DotNett\ConsoleApp1\bai1_bt3\bin\Debug\bai1_bt3.exe.config
+C:\DotNett\ConsoleApp1\bai1_bt3\bin\Debug\bai1_bt3.exe
+C:\DotNett\ConsoleApp1\bai1_bt3\bin\Debug\bai1_bt3.pdb
+C:\DotNett\ConsoleApp1\bai1_bt3\obj\Debug\bai1_bt3.csproj.AssemblyReference.cache
+C:\DotNett\ConsoleApp1\bai1_bt3\obj\Debug\bai1_bt3.csproj.CoreCompileInputs.cache
+C:\DotNett\ConsoleApp1\bai1_bt3\obj\Debug\bai1_bt3.exe
+C:\DotNett\ConsoleApp1\bai1_bt3\obj\Debug\bai1_bt3.pdb

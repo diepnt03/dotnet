@@ -1,0 +1,16 @@
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.csproj.AssemblyReference.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.AssemblyInfoInputs.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.AssemblyInfo.cs
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.csproj.CoreCompileInputs.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.deps.json
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.runtimeconfig.json
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.runtimeconfig.dev.json
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.dll
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\ref\Hieu543.dll
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\bin\Debug\net5.0\Hieu543.pdb
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.dll
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\ref\Hieu543.dll
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.pdb
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu543\Hieu543\obj\Debug\net5.0\Hieu543.genruntimeconfig.cache

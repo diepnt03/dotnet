@@ -1,0 +1,23 @@
+﻿<Window x:Class="On_de1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:On_de1"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <!--<DataGrid x:Name="DsCaoTuoi" Margin="50"/>-->
+        <DataGrid x:Name="DsCaoTuoi" HorizontalAlignment="Left" Margin="100,50,0,0" VerticalAlignment="Top" Width="500" Height="200" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã NV" Binding="{Binding maNV}" Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding hoTen}" Width="*"/>
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding ngSinh}" Width="*"/>
+                <DataGridTextColumn Header="Giới tính" Binding="{Binding gTinh}" Width="*"/>
+                <DataGridTextColumn Header="Phòng ban" Binding="{Binding phongBan, StringFormat=dd-MMM-yyy}" Width="*"/>
+                <DataGridTemplateColumn Header="Tuổi" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Đóng" HorizontalAlignment="Left" Margin="300,300,0,0" VerticalAlignment="Top" x:Name="btDong" Click="dong_onclick"/>
+    </Grid>
+</Window>

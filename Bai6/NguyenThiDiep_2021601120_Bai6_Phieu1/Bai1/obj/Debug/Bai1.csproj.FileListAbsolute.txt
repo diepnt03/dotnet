@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\bin\Debug\Bai1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\obj\Debug\Bai1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_Bai6_Phieu1\Bai1\obj\Debug\Bai1.pdb

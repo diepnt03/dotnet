@@ -1,0 +1,4 @@
+D:\NET\onTX2\Helloword\on_de3_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\NET\onTX2\Helloword\on_de3_2\obj\Debug\net6.0-windows\App.g.cs
+D:\NET\onTX2\Helloword\on_de3_2\obj\Debug\net6.0-windows\on_de3_2_MarkupCompile.cache
+D:\NET\onTX2\Helloword\on_de3_2\obj\Debug\net6.0-windows\on_de3_2_MarkupCompile.lref

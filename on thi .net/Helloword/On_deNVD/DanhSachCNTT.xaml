@@ -1,0 +1,21 @@
+﻿<Window x:Class="On_deNVD.DanhSachCNTT"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:On_deNVD"
+        mc:Ignorable="d"
+        Title="DanhSachCNTT" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="DSCNTT" AutoGenerateColumns="False" Margin="70">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã SV" Binding="{Binding maSV}" Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding hoTen}" Width="*"/>
+                <DataGridTextColumn Header="Số lần XS" Binding="{Binding solanXS}" Width="*"/>
+                <DataGridTextColumn Header="Khoa/TT" Binding="{Binding khoa}" Width="*"/>
+                <DataGridTextColumn Header="Tiền thưởng" Binding="{Binding tienThuong}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnDong" Content="Đóng" HorizontalAlignment="Left" Margin="514,392,0,0" VerticalAlignment="Top" Click="btnDong_Click"/>
+    </Grid>
+</Window>

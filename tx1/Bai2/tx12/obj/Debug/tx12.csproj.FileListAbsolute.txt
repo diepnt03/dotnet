@@ -1,0 +1,7 @@
+C:\DotNet\Bai2\tx12\bin\Debug\tx12.exe.config
+C:\DotNet\Bai2\tx12\bin\Debug\tx12.exe
+C:\DotNet\Bai2\tx12\bin\Debug\tx12.pdb
+C:\DotNet\Bai2\tx12\obj\Debug\tx12.csproj.AssemblyReference.cache
+C:\DotNet\Bai2\tx12\obj\Debug\tx12.csproj.CoreCompileInputs.cache
+C:\DotNet\Bai2\tx12\obj\Debug\tx12.exe
+C:\DotNet\Bai2\tx12\obj\Debug\tx12.pdb

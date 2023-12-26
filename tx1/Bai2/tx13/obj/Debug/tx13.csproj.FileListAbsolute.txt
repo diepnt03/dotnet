@@ -1,0 +1,6 @@
+C:\DotNet\Bai2\tx13\bin\Debug\tx13.exe.config
+C:\DotNet\Bai2\tx13\bin\Debug\tx13.exe
+C:\DotNet\Bai2\tx13\bin\Debug\tx13.pdb
+C:\DotNet\Bai2\tx13\obj\Debug\tx13.csproj.CoreCompileInputs.cache
+C:\DotNet\Bai2\tx13\obj\Debug\tx13.exe
+C:\DotNet\Bai2\tx13\obj\Debug\tx13.pdb

@@ -1,0 +1,37 @@
+﻿<Window x:Class="KiemTra.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KiemTra"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Mã sách" HorizontalAlignment="Left" Margin="39,33,0,0" VerticalAlignment="Top" Height="45" Width="93"/>
+        <Label Content="Tên sách" HorizontalAlignment="Left" Margin="39,78,0,0" VerticalAlignment="Top" Height="45" Width="93"/>
+        <Label Content="Năm XB" HorizontalAlignment="Left" Margin="39,123,0,0" VerticalAlignment="Top" Height="45" Width="93"/>
+        <Label Content="Số trang" HorizontalAlignment="Left" Margin="39,168,0,0" VerticalAlignment="Top" Height="45" Width="93"/>
+        <Label Content="Tác giả" HorizontalAlignment="Left" Margin="39,213,0,0" VerticalAlignment="Top" Height="45" Width="93"/>
+        <DataGrid Name="dgvdsSach" AutoGenerateColumns="False" HorizontalAlignment="Center" Height="171" Margin="0,263,0,0" VerticalAlignment="Top" Width="800" SelectedCellsChanged="dgvdsSach_SelectedCellsChanged" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MaSach" Binding="{Binding MaSach}"/>
+                <DataGridTextColumn Header="TenSach" Width="150" Binding="{Binding TenSach}"/>
+                <DataGridTextColumn Header="NamXB" Width="80" Binding="{Binding NamXB}"/>
+                <DataGridTextColumn Header="SoTrang" Width="100" Binding="{Binding SoTrang}"/>
+                <DataGridTextColumn Header="MaTG" Width="120" Binding="{Binding MaTG}"/>
+                <DataGridTextColumn Header="ThanhTien" Width="100" FontStyle="Italic" Foreground="Red" Binding="{Binding TongTien}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBox Name="txtMaSach" HorizontalAlignment="Left" Margin="178,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" Height="22"/>
+        <TextBox Name="txtTenSach" HorizontalAlignment="Left" Margin="178,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" Height="22"/>
+        <TextBox Name="txtNamXB" HorizontalAlignment="Left" Margin="178,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" Height="22"/>
+        <TextBox Name="txtSoTrang" HorizontalAlignment="Left" Margin="178,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" Height="22"/>
+        <ComboBox Name="cboTacGia" HorizontalAlignment="Left" Height="23" Margin="181,213,0,0" VerticalAlignment="Top" Width="166"/>
+        <Button Name="btnThem" Content="Thêm" HorizontalAlignment="Left" Height="33" Margin="537,33,0,0" VerticalAlignment="Top" Width="74" Click="btnThem_Click"/>
+        <Button Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Height="33" Margin="537,90,0,0" VerticalAlignment="Top" Width="74" Click="btnSua_Click"/>
+        <Button Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Height="33" Margin="537,147,0,0" VerticalAlignment="Top" Width="74" Click="btnXoa_Click"/>
+        <Button Name="btnThongKe" Content="Thống kê" HorizontalAlignment="Left" Height="33" Margin="537,203,0,0" VerticalAlignment="Top" Width="74"/>
+
+    </Grid>
+</Window>

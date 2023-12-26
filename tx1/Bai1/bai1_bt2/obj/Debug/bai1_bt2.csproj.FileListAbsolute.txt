@@ -1,0 +1,6 @@
+C:\DotNett\ConsoleApp1\bai1_bt2\bin\Debug\bai1_bt2.exe.config
+C:\DotNett\ConsoleApp1\bai1_bt2\bin\Debug\bai1_bt2.exe
+C:\DotNett\ConsoleApp1\bai1_bt2\bin\Debug\bai1_bt2.pdb
+C:\DotNett\ConsoleApp1\bai1_bt2\obj\Debug\bai1_bt2.csproj.CoreCompileInputs.cache
+C:\DotNett\ConsoleApp1\bai1_bt2\obj\Debug\bai1_bt2.exe
+C:\DotNett\ConsoleApp1\bai1_bt2\obj\Debug\bai1_bt2.pdb

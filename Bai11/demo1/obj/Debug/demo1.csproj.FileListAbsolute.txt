@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\bin\Debug\demo1.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\bin\Debug\demo1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\bin\Debug\demo1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\obj\Debug\demo1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\obj\Debug\demo1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai11\demo1\obj\Debug\demo1.pdb

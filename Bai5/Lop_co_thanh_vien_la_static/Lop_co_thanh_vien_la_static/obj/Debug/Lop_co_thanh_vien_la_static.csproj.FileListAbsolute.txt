@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\bin\Debug\Lop_co_thanh_vien_la_static.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\bin\Debug\Lop_co_thanh_vien_la_static.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\bin\Debug\Lop_co_thanh_vien_la_static.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\obj\Debug\Lop_co_thanh_vien_la_static.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\obj\Debug\Lop_co_thanh_vien_la_static.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\obj\Debug\Lop_co_thanh_vien_la_static.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai5\Lop_co_thanh_vien_la_static\Lop_co_thanh_vien_la_static\obj\Debug\Lop_co_thanh_vien_la_static.pdb

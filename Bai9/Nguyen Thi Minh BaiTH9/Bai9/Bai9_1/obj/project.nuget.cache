@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jelGV5sXJ7EZBGthOClU+WMW8O7zzpw7ADky4P1YshYim+tKt3nM5IJ6uPQp4xqboZuQeT79/hkdBvI6ud9ZEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Nguyen Thi Minh BaiTH9\\Bai9\\Bai9_1\\Bai9_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

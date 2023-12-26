@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\bin\Debug\deMau.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\bin\Debug\deMau.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\bin\Debug\deMau.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\obj\Debug\deMau.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\obj\Debug\deMau.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\obj\Debug\deMau.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\deMau\obj\Debug\deMau.pdb

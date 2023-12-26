@@ -1,0 +1,7 @@
+C:\DotNet\BAI2\ontap2\bin\Debug\ontap2.exe.config
+C:\DotNet\BAI2\ontap2\bin\Debug\ontap2.exe
+C:\DotNet\BAI2\ontap2\bin\Debug\ontap2.pdb
+C:\DotNet\BAI2\ontap2\obj\Debug\ontap2.csproj.AssemblyReference.cache
+C:\DotNet\BAI2\ontap2\obj\Debug\ontap2.csproj.CoreCompileInputs.cache
+C:\DotNet\BAI2\ontap2\obj\Debug\ontap2.exe
+C:\DotNet\BAI2\ontap2\obj\Debug\ontap2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\bin\Debug\oop1.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\bin\Debug\oop1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\bin\Debug\oop1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\obj\Debug\oop1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\obj\Debug\oop1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\obj\Debug\oop1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\tx1\giai_oop\oop1\obj\Debug\oop1.pdb

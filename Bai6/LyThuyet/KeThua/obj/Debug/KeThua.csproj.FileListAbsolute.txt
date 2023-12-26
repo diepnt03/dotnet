@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\bin\Debug\KeThua.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\bin\Debug\KeThua.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\bin\Debug\KeThua.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\obj\Debug\KeThua.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\obj\Debug\KeThua.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\LyThuyet\KeThua\obj\Debug\KeThua.pdb

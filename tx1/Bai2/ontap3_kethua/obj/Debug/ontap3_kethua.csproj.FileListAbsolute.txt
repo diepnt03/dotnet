@@ -1,0 +1,7 @@
+C:\DotNet\Bai2\ontap3_kethua\bin\Debug\ontap3_kethua.exe.config
+C:\DotNet\Bai2\ontap3_kethua\bin\Debug\ontap3_kethua.exe
+C:\DotNet\Bai2\ontap3_kethua\bin\Debug\ontap3_kethua.pdb
+C:\DotNet\Bai2\ontap3_kethua\obj\Debug\ontap3_kethua.csproj.AssemblyReference.cache
+C:\DotNet\Bai2\ontap3_kethua\obj\Debug\ontap3_kethua.csproj.CoreCompileInputs.cache
+C:\DotNet\Bai2\ontap3_kethua\obj\Debug\ontap3_kethua.exe
+C:\DotNet\Bai2\ontap3_kethua\obj\Debug\ontap3_kethua.pdb

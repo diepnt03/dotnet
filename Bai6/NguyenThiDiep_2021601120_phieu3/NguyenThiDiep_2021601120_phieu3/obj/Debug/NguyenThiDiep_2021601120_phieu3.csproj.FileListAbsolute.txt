@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\bin\Debug\NguyenThiDiep_2021601120_phieu3.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\bin\Debug\NguyenThiDiep_2021601120_phieu3.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\bin\Debug\NguyenThiDiep_2021601120_phieu3.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\obj\Debug\NguyenThiDiep_2021601120_phieu3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\obj\Debug\NguyenThiDiep_2021601120_phieu3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\obj\Debug\NguyenThiDiep_2021601120_phieu3.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\.Net\Bai6\NguyenThiDiep_2021601120_phieu3\NguyenThiDiep_2021601120_phieu3\obj\Debug\NguyenThiDiep_2021601120_phieu3.pdb

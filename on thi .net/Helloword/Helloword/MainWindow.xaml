@@ -1,0 +1,37 @@
+﻿<Window x:Class="Helloword.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Helloword"
+        mc:Ignorable="d"
+        Title="Lesson1 - StackPanel" Height="350" Width="400">
+    <!--(<StackPanel Background="Beige" Margin="0,0,-308,-161">
+        <Border Width="200" BorderBrush="DarkSlateBlue" Background="#a9e969" BorderThickness="2">
+           <CheckBox>Control 1</CheckBox>
+        </Border>
+        <Button Width="200">Control 2</Button>
+        <Border Width="200" BorderBrush="#feca00" BorderThickness="2">
+            <TextBlock HorizontalAlignment="Right">Control 3</TextBlock>
+        </Border>
+        </StackPanel>) -->
+     <Grid>
+        <Label Height="30" HorizontalAlignment="Left" Margin="10, 15, 0, 0" Name="label1" VerticalAlignment="Top" Width="60">Họ đệm</Label>
+        <Label Height="30" HorizontalAlignment="Left" Margin="10, 55, 0, 0" Name="label2" VerticalAlignment="Top" Width="60">Tên</Label>
+        <TextBox Height="30" Margin="80, 17, 30, 0" Name="txt1" VerticalAlignment="Top"></TextBox>
+        <TextBox Height="30" Margin="80, 57, 30, 0" Name="txt2" VerticalAlignment="Top"></TextBox>
+        <RadioButton Height="22" Margin="80, 99, 0, 0" Name="rabt1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="79" GroupName="GioiTinh" IsChecked="True">Nam</RadioButton>
+        <RadioButton Height="22" Margin="0, 99, 30, 0" Name="rabt2" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" GroupName="GioiTinh" IsChecked="True">Nu</RadioButton>
+        <Label HorizontalAlignment="Left" Margin="10, 137, 0, 105" Name="label3" Width="69">Ngoại ngữ</Label>
+        <CheckBox Margin="84, 143, 0, 105" Name="cbox1" Height="20" VerticalAlignment="Top" IsChecked="True">Tiếng Anh</CheckBox>
+        <CheckBox Margin="224, 143, 0, 105" Name="cbox2" Height="20" VerticalAlignment="Top" IsChecked="True">Tiếng Trung</CheckBox>
+        <Label Height="30" Margin="10, 167, 0, 0" HorizontalAlignment="Left" Name="lbel4" VerticalAlignment="Top" Width="69"> Quê quán</Label>
+        <ComboBox Height="26" Margin="80, 167, 30, 0" Name="lsBox1" VerticalAlignment="Top" SelectedIndex="0">
+            <ComboBoxItem>Hà nội</ComboBoxItem>
+            <ComboBoxItem>Can Lộc</ComboBoxItem>
+            <ComboBoxItem>Thường Nga</ComboBoxItem>
+        </ComboBox>
+        <Button Height="35" HorizontalAlignment="Left" Margin="70, 0, 0, 50" Name="bt1" VerticalAlignment="Bottom" Width="110" Click="bt1_Click">Xem thông tin</Button>
+        <Button Height="35" HorizontalAlignment="Right" Margin="0, 0, 70, 50" Name="bt2" VerticalAlignment="Bottom" Width="110" Click="bt2_Click">Nhập lại</Button>
+    </Grid>
+</Window>

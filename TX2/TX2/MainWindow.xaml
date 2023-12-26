@@ -1,0 +1,62 @@
+﻿<Window x:Class="TX2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TX2"
+        mc:Ignorable="d"
+        Title="Bài kiểm tra thường xuyên 2" Height="790" Width="884"
+        FontFamily="Times New Roman"
+        FontSize="18px">
+    <Window.Resources>
+        <SolidColorBrush x:Key="LabelForeground1" Color="Blue"/>
+        <Style TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Button">
+            <Style.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="150"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Background" Value="Gold"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Foreground="{DynamicResource LabelForeground1}" Content="Quản lý thông tin nhân viên" HorizontalAlignment="Center" Height="60" Margin="103,10,0,0" VerticalAlignment="Top" Width="410" FontSize="30"/>
+        <Label Content="Mã nhân viên: " HorizontalAlignment="Left" Height="46" Margin="10,89,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Họ tên: " HorizontalAlignment="Left" Height="46" Margin="10,140,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Ngày sinh: " HorizontalAlignment="Left" Height="46" Margin="10,191,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Giới tính: " HorizontalAlignment="Left" Height="46" Margin="10,242,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Phòng ban: " HorizontalAlignment="Left" Height="46" Margin="10,293,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Hệ số lương: " HorizontalAlignment="Left" Height="46" Margin="10,344,0,0" VerticalAlignment="Top" Width="154"/>
+        <TextBox Name ="txtma" HorizontalAlignment="Left" Height="34" Margin="218,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300"/>
+        <TextBox Name ="txthoten" HorizontalAlignment="Left" Height="34" Margin="218,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300"/>
+        <TextBox Name ="txthsluong" HorizontalAlignment="Left" Height="34" Margin="218,344,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300"/>
+        <DatePicker x:Name="dtpngaysinh" HorizontalAlignment="Left" Height="34" Margin="218,180,0,0" VerticalAlignment="Top" Width="167"/>
+        <RadioButton Name ="radioNam" Content="Nam" HorizontalAlignment="Left" Height="23" Margin="218,242,0,0" VerticalAlignment="Top" Width="121" GroupName="GioiTinh"/>
+        <RadioButton Name ="radioNu" Content="Nữ" HorizontalAlignment="Left" Height="23" Margin="368,242,0,0" VerticalAlignment="Top" Width="121" GroupName="GioiTinh"/>
+        <ComboBox Name="cbbphongban" HorizontalAlignment="Left" Height="34" Margin="218,288,0,0" VerticalAlignment="Top" Width="300" >
+            <ComboBoxItem>Tổ chức</ComboBoxItem>
+            <ComboBoxItem>Kế hoạch</ComboBoxItem>
+            <ComboBoxItem>Vật</ComboBoxItem>
+        </ComboBox>
+        <DataGrid Name="dgDSNV" HorizontalAlignment="Left" Height="183" Margin="10,395,0,0" VerticalAlignment="Top" Width="847" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header ="Mã nhân viên" Binding="{Binding maNV}" Width="120" ></DataGridTextColumn>
+                <DataGridTextColumn Header ="Họ tên" Binding="{Binding hoTen}" Width="150" ></DataGridTextColumn>
+                <DataGridTextColumn Header ="Giới tính" Binding="{Binding gioiTinh}" Width="150" ></DataGridTextColumn>
+                <DataGridTextColumn Header ="Phòng ban" Binding="{Binding phong}" Width="150"></DataGridTextColumn>
+                <DataGridTextColumn Header ="Ngày sinh" Binding="{Binding ngaySinh, StringFormat=dd-MM-yyyy}"  Width="100"></DataGridTextColumn>
+                <DataGridTextColumn Header ="Tuổi" Width="100" > </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Border x:Name="border" BorderBrush="Green" BorderThickness="1" HorizontalAlignment="Center" Height="508" Margin="0,70,0,0" VerticalAlignment="Top" Width="864" Background="{Binding ActualWidth.NegativeInfinity, ElementName=border}"/>
+        <Button Name="btnNhap" Content="Nhập" HorizontalAlignment="Left" Height="60" Margin="206,607,0,0" VerticalAlignment="Top" Width="144" Foreground="Green" Click="btnNhap_Click"/>
+        <Button Name="btnw2" Content="Window2" HorizontalAlignment="Left" Height="60" Margin="422,607,0,0" VerticalAlignment="Top" Width="144" Foreground="Green" Click="btnw2_Click"/>
+
+    </Grid>
+</Window>
